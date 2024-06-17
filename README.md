@@ -1,4 +1,4 @@
-# Optimal Strategy for Minimum cost from city1 to city1 using Dynamic Programming
+# Optimal Strategy for Minimum cost from city1 to city2 using Dynamic Programming
 
 ## Problem definition:
 1. Travelling from home in city1 to a hotel in city2.
